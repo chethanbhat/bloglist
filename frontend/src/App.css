@@ -1,0 +1,12 @@
+main div.container {
+  min-height: 100vh;
+}
+
+.blogs > a {
+  color: #000;
+}
+
+.blogs > a:hover {
+  color: #000;
+  text-decoration: none;
+}
